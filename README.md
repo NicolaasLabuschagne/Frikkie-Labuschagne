@@ -12,18 +12,15 @@ images/             Headshot, favicon, other photos
 assets/             CV / resume PDF, downloadable files
 ```
 
-## Customize
+## Content status
 
-Search `index.html` for bracketed placeholders like `[Add your bio here]` and `[Film Title]` and replace them with real content:
+Bio, training history, and short film credits (Conviction, Discount Stripper, Home Sweet Home) are filled in with real info. Still to add:
 
 - **Headshot**: add a photo at `images/headshot.jpg` (the hero section falls back to a placeholder box until it exists).
-- **Bio**: edit the About section text.
-- **Showreel**: replace the YouTube embed URL in the Showreel section with your own video link.
-- **Journey**: update the timeline years/milestones to match your actual training and career history.
-- **Credits**: fill in real Film / Television / Theatre credits.
-- **Testimonial**: swap in a real quote and attribution.
-- **Contact**: replace `booking@example.com` and the social links (Instagram, IMDb, Facebook, LinkedIn) with real ones.
+- **Showreel**: replace the YouTube embed URL in the Showreel section with a real reel link.
 - **CV**: add a PDF at `assets/frikkie-labuschagne-cv.pdf` for the "Download CV" button.
+- **Contact**: replace `booking@example.com` and the social links (Instagram, IMDb, Facebook, LinkedIn) in the Contact section with real ones.
+- **Journey dates**: the career timeline years are estimated from "7 years studying acting" and "third/final year at Act Cape Town" — adjust if the real dates differ.
 
 ## Run locally
 
